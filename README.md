@@ -1,5 +1,5 @@
 # Challenge_5
-Prepare the Data 
+# # Prepare the Data 
 The datasets are merged into a single DataFrame. 
 The number of mice are shown from the merged DataFrame. 
 Each duplicate mice is found based on the Mouse ID and Timepoint. 
